@@ -12,4 +12,4 @@ The first thing you should read when joining @algorithm_club is the <a href="htt
 ## Schedule
 * November 23rd, 2015: The Relevance of Algorithms
 * 17.00 GMT/London, 12.00 EST/New York, 09.00 PST/Portland (sorry west coast)
-* <a href="http://www.tarletongillespie.org/essays/Gillespie%20-%20The%20Relevance%20of%20Algorithms.pdf">The Relvance of Algorithms</a> by Tarleton Gillespie
+* <a href="http://mixedrealitycity.org/readings/Gillespie_TheRelevanceofAlgorithms.pdf">The Relvance of Algorithms</a> by Tarleton Gillespie
